@@ -1,7 +1,7 @@
 <br />
  <p align="center">
     <img src="./logo.png" alt="Logo" width="207" height="47" />
-    <h3 align="center "><a href=" https://digital-clock-by-miraz.netlify.app" target="_blank" >Digital Clock Project</a></h3>
+    <h3 align="center "><a href="https://digital-clock-by-miraz.netlify.app" target="_blank" >Digital Clock | VANILLA JS</a></h3>
 </p>
 
 <!-- TABLE OF CONTENTS -->
